@@ -2,7 +2,7 @@
 
 Api especializada em busca utilizando google como recurso principal.
 
-
+PLANO FREE
 
 FONT:      
  https://zenserp.com/ 
